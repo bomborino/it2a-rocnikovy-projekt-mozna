@@ -1,0 +1,38 @@
+C:\Users\61826senovsky\source\repos\mocnikovy projekt\mocnikovy projekt\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\61826senovsky\source\repos\mocnikovy projekt\mocnikovy projekt\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\61826senovsky\source\repos\mocnikovy projekt\mocnikovy projekt\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\61826senovsky\source\repos\mocnikovy projekt\mocnikovy projekt\obj\Debug\net8.0-windows\mocnikovy projekt_MarkupCompile.cache
+C:\Users\61826senovsky\source\repos\mocnikovy projekt\mocnikovy projekt\obj\Debug\net8.0-windows\mocnikovy projekt.g.resources
+C:\Users\61826senovsky\source\repos\mocnikovy projekt\mocnikovy projekt\obj\Debug\net8.0-windows\mocnikovy projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\61826senovsky\source\repos\mocnikovy projekt\mocnikovy projekt\obj\Debug\net8.0-windows\mocnikovy projekt.AssemblyInfoInputs.cache
+C:\Users\61826senovsky\source\repos\mocnikovy projekt\mocnikovy projekt\obj\Debug\net8.0-windows\mocnikovy projekt.AssemblyInfo.cs
+C:\Users\61826senovsky\source\repos\mocnikovy projekt\mocnikovy projekt\obj\Debug\net8.0-windows\mocnikovy projekt.csproj.CoreCompileInputs.cache
+C:\Users\61826senovsky\source\repos\mocnikovy projekt\mocnikovy projekt\bin\Debug\net8.0-windows\mocnikovy projekt.exe
+C:\Users\61826senovsky\source\repos\mocnikovy projekt\mocnikovy projekt\bin\Debug\net8.0-windows\mocnikovy projekt.deps.json
+C:\Users\61826senovsky\source\repos\mocnikovy projekt\mocnikovy projekt\bin\Debug\net8.0-windows\mocnikovy projekt.runtimeconfig.json
+C:\Users\61826senovsky\source\repos\mocnikovy projekt\mocnikovy projekt\bin\Debug\net8.0-windows\mocnikovy projekt.dll
+C:\Users\61826senovsky\source\repos\mocnikovy projekt\mocnikovy projekt\bin\Debug\net8.0-windows\mocnikovy projekt.pdb
+C:\Users\61826senovsky\source\repos\mocnikovy projekt\mocnikovy projekt\obj\Debug\net8.0-windows\mocnikovy projekt.dll
+C:\Users\61826senovsky\source\repos\mocnikovy projekt\mocnikovy projekt\obj\Debug\net8.0-windows\refint\mocnikovy projekt.dll
+C:\Users\61826senovsky\source\repos\mocnikovy projekt\mocnikovy projekt\obj\Debug\net8.0-windows\mocnikovy projekt.pdb
+C:\Users\61826senovsky\source\repos\mocnikovy projekt\mocnikovy projekt\obj\Debug\net8.0-windows\mocnikovy projekt.genruntimeconfig.cache
+C:\Users\61826senovsky\source\repos\mocnikovy projekt\mocnikovy projekt\obj\Debug\net8.0-windows\ref\mocnikovy projekt.dll
+C:\Users\61826senovsky\Downloads\mocnikovy projekt\mocnikovy projekt\bin\Debug\net8.0-windows\mocnikovy projekt.exe
+C:\Users\61826senovsky\Downloads\mocnikovy projekt\mocnikovy projekt\bin\Debug\net8.0-windows\mocnikovy projekt.deps.json
+C:\Users\61826senovsky\Downloads\mocnikovy projekt\mocnikovy projekt\bin\Debug\net8.0-windows\mocnikovy projekt.runtimeconfig.json
+C:\Users\61826senovsky\Downloads\mocnikovy projekt\mocnikovy projekt\bin\Debug\net8.0-windows\mocnikovy projekt.dll
+C:\Users\61826senovsky\Downloads\mocnikovy projekt\mocnikovy projekt\bin\Debug\net8.0-windows\mocnikovy projekt.pdb
+C:\Users\61826senovsky\Downloads\mocnikovy projekt\mocnikovy projekt\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\61826senovsky\Downloads\mocnikovy projekt\mocnikovy projekt\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\61826senovsky\Downloads\mocnikovy projekt\mocnikovy projekt\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\61826senovsky\Downloads\mocnikovy projekt\mocnikovy projekt\obj\Debug\net8.0-windows\mocnikovy projekt_MarkupCompile.cache
+C:\Users\61826senovsky\Downloads\mocnikovy projekt\mocnikovy projekt\obj\Debug\net8.0-windows\mocnikovy projekt.g.resources
+C:\Users\61826senovsky\Downloads\mocnikovy projekt\mocnikovy projekt\obj\Debug\net8.0-windows\mocnikovy projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\61826senovsky\Downloads\mocnikovy projekt\mocnikovy projekt\obj\Debug\net8.0-windows\mocnikovy projekt.AssemblyInfoInputs.cache
+C:\Users\61826senovsky\Downloads\mocnikovy projekt\mocnikovy projekt\obj\Debug\net8.0-windows\mocnikovy projekt.AssemblyInfo.cs
+C:\Users\61826senovsky\Downloads\mocnikovy projekt\mocnikovy projekt\obj\Debug\net8.0-windows\mocnikovy projekt.csproj.CoreCompileInputs.cache
+C:\Users\61826senovsky\Downloads\mocnikovy projekt\mocnikovy projekt\obj\Debug\net8.0-windows\mocnikovy projekt.dll
+C:\Users\61826senovsky\Downloads\mocnikovy projekt\mocnikovy projekt\obj\Debug\net8.0-windows\refint\mocnikovy projekt.dll
+C:\Users\61826senovsky\Downloads\mocnikovy projekt\mocnikovy projekt\obj\Debug\net8.0-windows\mocnikovy projekt.pdb
+C:\Users\61826senovsky\Downloads\mocnikovy projekt\mocnikovy projekt\obj\Debug\net8.0-windows\mocnikovy projekt.genruntimeconfig.cache
+C:\Users\61826senovsky\Downloads\mocnikovy projekt\mocnikovy projekt\obj\Debug\net8.0-windows\ref\mocnikovy projekt.dll

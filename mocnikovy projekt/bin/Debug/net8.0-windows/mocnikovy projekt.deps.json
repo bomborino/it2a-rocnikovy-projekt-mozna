@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "mocnikovy projekt/1.0.0": {
+        "runtime": {
+          "mocnikovy projekt.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mocnikovy projekt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

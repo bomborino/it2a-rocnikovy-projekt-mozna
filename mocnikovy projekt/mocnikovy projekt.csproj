@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>mocnikovy_projekt</RootNamespace>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="pokojpenisniotvor.png" />
+    <None Remove="sexvkoupene.png" />
+    <None Remove="titstulnistranka.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="pokojpenisniotvor.png" />
+    <EmbeddedResource Include="sexvkoupene.png" />
+    <EmbeddedResource Include="titstulnistranka.png" />
+  </ItemGroup>
+
+</Project>
