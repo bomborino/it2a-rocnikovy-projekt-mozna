@@ -1,0 +1,21 @@
+C:\Users\kuba0\Downloads\mocnikovy projekt\mocnikovy projekt\bin\Debug\net8.0-windows\mocnikovy projekt.exe
+C:\Users\kuba0\Downloads\mocnikovy projekt\mocnikovy projekt\bin\Debug\net8.0-windows\mocnikovy projekt.deps.json
+C:\Users\kuba0\Downloads\mocnikovy projekt\mocnikovy projekt\bin\Debug\net8.0-windows\mocnikovy projekt.runtimeconfig.json
+C:\Users\kuba0\Downloads\mocnikovy projekt\mocnikovy projekt\bin\Debug\net8.0-windows\mocnikovy projekt.dll
+C:\Users\kuba0\Downloads\mocnikovy projekt\mocnikovy projekt\bin\Debug\net8.0-windows\mocnikovy projekt.pdb
+C:\Users\kuba0\Downloads\mocnikovy projekt\mocnikovy projekt\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\kuba0\Downloads\mocnikovy projekt\mocnikovy projekt\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\kuba0\Downloads\mocnikovy projekt\mocnikovy projekt\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\kuba0\Downloads\mocnikovy projekt\mocnikovy projekt\obj\Debug\net8.0-windows\mocnikovy projekt_MarkupCompile.cache
+C:\Users\kuba0\Downloads\mocnikovy projekt\mocnikovy projekt\obj\Debug\net8.0-windows\mocnikovy projekt.g.resources
+C:\Users\kuba0\Downloads\mocnikovy projekt\mocnikovy projekt\obj\Debug\net8.0-windows\mocnikovy projekt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kuba0\Downloads\mocnikovy projekt\mocnikovy projekt\obj\Debug\net8.0-windows\mocnikovy projekt.AssemblyInfoInputs.cache
+C:\Users\kuba0\Downloads\mocnikovy projekt\mocnikovy projekt\obj\Debug\net8.0-windows\mocnikovy projekt.AssemblyInfo.cs
+C:\Users\kuba0\Downloads\mocnikovy projekt\mocnikovy projekt\obj\Debug\net8.0-windows\mocnikovy projekt.csproj.CoreCompileInputs.cache
+C:\Users\kuba0\Downloads\mocnikovy projekt\mocnikovy projekt\obj\Debug\net8.0-windows\mocnikovy projekt.dll
+C:\Users\kuba0\Downloads\mocnikovy projekt\mocnikovy projekt\obj\Debug\net8.0-windows\refint\mocnikovy projekt.dll
+C:\Users\kuba0\Downloads\mocnikovy projekt\mocnikovy projekt\obj\Debug\net8.0-windows\mocnikovy projekt.pdb
+C:\Users\kuba0\Downloads\mocnikovy projekt\mocnikovy projekt\obj\Debug\net8.0-windows\mocnikovy projekt.genruntimeconfig.cache
+C:\Users\kuba0\Downloads\mocnikovy projekt\mocnikovy projekt\obj\Debug\net8.0-windows\ref\mocnikovy projekt.dll
+C:\Users\kuba0\Downloads\mocnikovy projekt\mocnikovy projekt\obj\Debug\net8.0-windows\mocnikovy projekt_Content.g.cs
+C:\Users\kuba0\Downloads\mocnikovy projekt\mocnikovy projekt\bin\Debug\net8.0-windows\haggtrom.wav

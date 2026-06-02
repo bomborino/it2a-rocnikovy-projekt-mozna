@@ -1,0 +1,34 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <RootNamespace>mocnikovy_projekt</RootNamespace>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="pocitacovypokoj.png" />
+    <None Remove="sejf.png" />
+    <None Remove="sejfotevreny.png" />
+    <None Remove="titstulnistranka.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="haggtrom.wav">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="pocitacovypokoj.png" />
+    <Resource Include="pokkoj.png" />
+    <Resource Include="sejf.png" />
+    <Resource Include="sejfotevreny.png" />
+    <Resource Include="knoupelna.png" />
+    <Resource Include="titstulnistranka.png" />
+  </ItemGroup>
+
+</Project>
